@@ -39,3 +39,4 @@ Notes and usage details for dokku-cli.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
