@@ -43,3 +43,4 @@ Notes and usage details for dokku-cli.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- link the usage section
